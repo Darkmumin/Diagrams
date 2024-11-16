@@ -44,6 +44,9 @@
         <mxCell id="bU3jpGFDHmEg8mvXudiJ-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;rt-public-jai&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.route_table;" vertex="1" parent="1">
           <mxGeometry x="440" y="220" width="57.47" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="bU3jpGFDHmEg8mvXudiJ-8" value="ngw-jai" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.nat_gateway;" vertex="1" parent="1">
+          <mxGeometry x="111" y="250" width="78" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
